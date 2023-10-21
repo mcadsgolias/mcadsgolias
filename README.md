@@ -22,8 +22,7 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](              - name: generate-snake-game-from-github-contribution-grid
+                - name: github.mcadsgolias
                 uses: Platane/snk@v3.0.0
-            )
-
+            
 </div>
